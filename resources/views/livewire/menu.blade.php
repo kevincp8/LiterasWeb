@@ -23,4 +23,8 @@
       </li>
     </nav>
   </menu>
+  <div class="w-screen min-h-screen">
+    <img src="{{ asset('storage/fondomenu1.jpg') }}" alt="Fondo del menú" class="w-full h-full object-cover">
 </div>
+</div>
+
